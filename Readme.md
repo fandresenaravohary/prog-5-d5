@@ -74,7 +74,7 @@ La modélisation du système repose sur l'identification des entités, de leurs 
 |-----------------------|
 | + insérerArgent()     |
 | + choisirParfum()     |
-| + distribuerCafe()    |
+| + getCafe()    |
 +-----------------------+
         |
         v
